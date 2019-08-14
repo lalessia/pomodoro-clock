@@ -16,17 +16,11 @@ h1{
 }
 
 input[type=button]{
-    /* background-color: rgba(161, 35, 18, 0);
-    height: 4vw;
-    border: 2;
-    outline: none; */
     font-family: 'Kalam', cursive;
     font-size: 2vw;
 }
 
 .container{
-    /* width: 85%;
-    position:absolute; */
     display: grid;
 }
 
@@ -61,7 +55,7 @@ input[type=button]{
     animation: inner-circle linear infinite paused;
     /* animation-duration: 60s; */
     margin: 0;
-    margin-top: 0;
+    margin-top: 0px;
     width: 20vw;
     height: 20vw;
 }
